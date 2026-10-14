@@ -18,8 +18,6 @@ I'm a Software Engineer with experience designing and developing backend service
 
 My background includes enterprise Java development, cloud infrastructure, microservices, CI/CD automation, and AI-powered applications.
 
-I hold a Master's degree in Information Technology from the University of New Hampshire.
-
 I enjoy building practical solutions, improving system performance, and exploring how AI can solve real-world problems.
 
 
